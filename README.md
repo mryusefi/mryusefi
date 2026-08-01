@@ -1,32 +1,65 @@
-# Building Games, Backends & Startups
+# Hi, I'm Mohammad Reza 
 
-Unity Developer | Python Enthusiast | Agile & Lean Practitioner  
-Currently building a startup, diving deep into backend development, and sharpening my project management skills.
-
----
-
-## 🧰 Tech Stack & Skills
-
-- Unity (C#, 2D/3D, OOP, VR , AI Behavior)
-- Python (Core, FastAPI, Data Handling, Learning AI/ML)
-- Tools: Git, GitHub Actions, Docker (Basics), VS Code
-- Learning: SQL (PostgreSQL), System Design Basics, CI/CD Pipelines
-- Methodologies: Agile (Scrum/Kanban), Lean Startup, MVP Design
-- Previously used: Node.js (basic APIs, Express) — currently focused on Python
+I build AI applications, autonomous agents, and automation systems that solve real business problems.
 
 ---
 
-## 🚀 What I'm Working On
+### About
 
-- Developing a startup as a technical co-founder  
-- Growing my backend development skills (Python, SQL, APIs)  
-- Studying project management & product thinking  
-- Taking freelance game and backend projects
+I'm a software engineer focused on **AI Applications**, **LLMs**, **AI Agents**, and **Workflow Automation**.
+
+I enjoy turning ideas into production-ready software using FastAPI, n8n, MCP, RAG, and modern AI technologies.
+
+Currently documenting my learning journey by building public projects and open-source tools.
 
 ---
 
-## 📫 Let's Connect
+### What I'm Building
 
-- [LinkedIn](www.linkedin.com/in/mryusefi)
-- [Email](mohammadreza.yousefi.2003@gmail.com)
+- 🤖 AI Applications
+- 🧠 AI Agents
+- 📚 RAG Systems
+- ⚡ AI Automation
+- 🚀 Production APIs
+- 🔓 Open Source Projects
 
+---
+
+### Featured Projects
+
+| | |
+|---|---|
+| 📄 [**RAG Chatbot with Qdrant**](https://github.com/mryusefi/rag-chatbot-qdrant) | Production-ready retrieval chatbot built with n8n, OpenAI and Qdrant. |
+| 🧩 [**MCP Personal Assistant**](https://github.com/mryusefi/MCP-Powered-Personal-Assistant) | AI assistant using the Model Context Protocol for Gmail and Google Calendar. |
+| ⚙️ [**Synth API**](https://github.com/mryusefi/Synth-API) | FastAPI backend for production AI applications. |
+| 🔍 [**AI Customer Review Processor**](https://github.com/mryusefi/ai-customer-review-processor) | AI-powered system for processing and analyzing customer reviews. |
+
+---
+
+### Current Focus
+
+Currently learning in public by building one real-world AI project at a time.
+
+---
+
+### Tech Stack
+
+`Python` `FastAPI` `OpenAI` `Gemini` `n8n` `Qdrant` `Docker` `PostgreSQL` `Git`
+
+---
+
+### Open Source
+
+I believe in building in the open. Check out my repositories for tools and projects I'm sharing with the community.
+
+---
+
+### Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/mryusefi)
+- [Email](mailto:mohammadreza.yousefi.2003@gmail.com)
+- [GitHub](https://github.com/mryusefi)
+
+---
+
+<p align="center"><i>Currently learning in public by building one real-world AI project at a time.</i></p>
